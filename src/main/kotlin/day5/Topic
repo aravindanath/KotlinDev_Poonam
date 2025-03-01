@@ -1,5 +1,16 @@
+inheritance
+visibility modifiers
+private
+public
+protected
+internal
+constructors
+
+
 Set
 map
-constructors
 oops
 Exceptions
+
+Data class
+Sealed class
