@@ -1,4 +1,4 @@
-package org.example.Poonam_Practice
+package org.example.Poonam_Practice.Day4Poonam
 fun main() {
 
     var numbers = arrayOf(1, 2, 3, 4, 5, 6, "one", "Two")

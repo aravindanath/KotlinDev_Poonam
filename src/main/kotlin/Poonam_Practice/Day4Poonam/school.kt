@@ -1,4 +1,4 @@
-package org.example.Poonam_Practice
+package org.example.Poonam_Practice.Day4Poonam
 
 import java.util.Scanner
 

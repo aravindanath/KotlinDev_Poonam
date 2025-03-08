@@ -1,4 +1,4 @@
-package org.example.Poonam_Practice
+package org.example.Poonam_Practice.Day4Poonam
 
 fun main(){
     var str = "My name is Poonam" // string is immutable means can not be changed and starts with index 0
